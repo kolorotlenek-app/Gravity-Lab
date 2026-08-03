@@ -1,0 +1,8 @@
+{
+  "name": "GR Precision Level",
+  "description": "A minimalist, laboratory-grade mobile level application with clinical aesthetics, geometric precision, and real-time orientation tracking.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
